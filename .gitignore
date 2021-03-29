@@ -135,6 +135,5 @@ dmypy.json
 *.bin
 *.html
 *.png
-*.ipynb
 *.csv
 *.h5
